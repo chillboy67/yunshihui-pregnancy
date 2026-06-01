@@ -1,0 +1,68 @@
+{ 
+    "yunzao_1": [
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入(300g/d)",
+        "foodType": "奶类及制品"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（300-500g/d）",
+        "foodType": "蔬菜类及制品"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（50g/d）",
+        "foodType": "蛋类及制品"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（200-250g/d）",
+        "foodType": "谷类及制品 "
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（50g/d）",
+        "foodType": "薯类及制品"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（200-300/d）",
+        "foodType": "水果类及制品"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（10g/d）",
+        "foodType": "坚果类"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（15g/d）",
+        "foodType": "大豆类"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入(<5g/d)",
+        "foodType": "加碘食盐"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入(25/d)",
+        "foodType": "油 "
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（40-65g/d）",
+        "foodType": "鱼虾类"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（40-65g/d）",
+        "foodType": "瘦畜禽肉"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入",
+        "foodType": "贝类"
+    }
+]}

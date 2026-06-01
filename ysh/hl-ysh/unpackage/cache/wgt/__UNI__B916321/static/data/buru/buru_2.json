@@ -1,0 +1,53 @@
+{ 
+    "buru_2": [
+    {
+        "dish": "鱼汤",
+        "effect": "功效",
+        "advantage": "促进乳汁分泌"
+    },
+    {
+        "dish": "鸡汤",
+        "effect": "功效",
+        "advantage": "促进乳汁分泌"
+    },
+    {
+        "dish": "肉汤",
+        "effect": "功效",
+        "advantage": "促进乳汁分泌"
+    },
+    {
+        "dish": "猪腿",
+        "effect": "功效",
+        "advantage": "促进乳汁分泌"
+    },
+    {
+        "dish": "猪排骨",
+        "effect": "功效",
+        "advantage": "促进乳汁分泌"
+    },
+    {
+        "dish": "猪尾煮汤",
+        "effect": "功效",
+        "advantage": "促进乳汁分泌"
+    },
+    {
+        "dish": "鲫鱼汤",
+        "effect": "功效",
+        "advantage": "促进乳汁分泌"
+    },
+    {
+        "dish": "猪尾煮汤",
+        "effect": "功效",
+        "advantage": "促进乳汁分泌"
+    },
+    {
+        "dish": "黄花菜鸡汤",
+        "effect": "功效",
+        "advantage": "促进乳汁分泌"
+    },
+    {
+        "dish": "鸡蛋煮汤",
+        "effect": "功效",
+        "advantage": "促进乳汁分泌"
+    }
+]}

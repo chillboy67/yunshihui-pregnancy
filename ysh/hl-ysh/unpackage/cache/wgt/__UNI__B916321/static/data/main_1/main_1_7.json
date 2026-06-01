@@ -1,0 +1,33 @@
+{ 
+    "main_1_7": [   
+    {
+        "food": "土豆",
+        "contain": "含有",
+        "nutrient": "维生素C"
+    },
+    {
+        "food": "胡萝卜",
+        "contain": "含有",
+        "nutrient": "维生素C"
+    },
+    {
+        "food": "白菜",
+        "contain": "含有",
+        "nutrient": "维生素C"
+    },
+    {
+        "food": "花菜",
+        "contain": "含有",
+        "nutrient": "维生素C"
+    },
+    {
+        "food": "小葱",
+        "contain": "含有（21mg/73g可食部）",
+        "nutrient": "维生素C"
+    },
+    {
+        "food": "芒果 ",
+        "contain": "含有(14mg/68g可食部)",
+        "nutrient": "维生素C"
+    }
+]}

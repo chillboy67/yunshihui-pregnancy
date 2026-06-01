@@ -1,0 +1,33 @@
+ {
+    "tangniaobing_3": [   
+    {
+        "specility": "妊娠期糖尿病",
+        "recommand": "推荐摄入（>175g/d低GI/GL复合型，占总热量的50%-60%）",
+        "nutrient": "碳水化合物"
+    },
+    {
+        "specility": "妊娠期糖尿病",
+        "recommand": "推荐摄入（25g-30g/d）",
+        "nutrient": "膳食纤维"
+    },
+    {
+        "specility": "妊娠期糖尿病",
+        "recommand": "推荐摄入（>70g/d，占总热量的15%-20%）",
+        "nutrient": "蛋白质"
+    },
+    {
+        "specility": "妊娠期糖尿病",
+        "recommand": "推荐摄入（占总热量的25%—30%）",
+        "nutrient": "脂肪"
+    },
+    {
+        "specility": "妊娠期糖尿病",
+        "recommand": "推荐摄入（<总热量摄入的7%）",
+        "nutrient": "饱和脂肪酸"
+    },
+    {
+        "specility": "妊娠期糖尿病",
+        "recommand": "限制摄入",
+        "nutrient": "反式脂肪酸"
+    }
+]}

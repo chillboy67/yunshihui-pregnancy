@@ -1,0 +1,18 @@
+{ 
+    "buru_8": [
+    {
+        "specialty": " 母乳喂养",
+        "forbid": " 禁忌摄入",
+        "food": "咖啡"
+    },
+    {
+        "specialty": " 母乳喂养",
+        "forbid": " 禁忌摄入",
+        "food": "浓茶"
+    },
+    {
+        "specialty": " 母乳喂养",
+        "forbid": " 禁忌摄入",
+        "food": "酒"
+    }
+]}

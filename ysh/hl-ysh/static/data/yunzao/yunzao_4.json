@@ -1,0 +1,88 @@
+{ 
+    "yunzao_4": [
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（1500-1700ml/d）",
+        "nutrient": "水 "
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（>150g)",
+        "nutrient": "碳水化合物"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（230μg/d ）",
+        "nutrient": "碘"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（10.5mg/d）",
+        "nutrient": "锌 "
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（800mg/d）",
+        "nutrient": "钙"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（660μgRAE/d）",
+        "nutrient": "维生素A"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（80μg/d）",
+        "nutrient": "维生素K"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（1.2mg/d）",
+        "nutrient": "维生素B1"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（1.2mg/d）",
+        "nutrient": "维生素B2 "
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（ 3.2mg/d）",
+        "nutrient": "维生素B12"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（100mg/d）",
+        "nutrient": "维生素C"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（2.9微克/天）",
+        "nutrient": "维生素B12"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（200mg）",
+        "nutrient": "DHA"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（230μg/d）",
+        "nutrient": "碘"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入（10.5mg/d）",
+        "nutrient": "锌 "
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入(370mg/d)  ",
+        "nutrient": "镁"
+    },
+    {
+        "pregnancy": "孕早期",
+        "recommend": "推荐摄入(65微克/天)",
+        "nutrient": "硒"
+    }
+]}

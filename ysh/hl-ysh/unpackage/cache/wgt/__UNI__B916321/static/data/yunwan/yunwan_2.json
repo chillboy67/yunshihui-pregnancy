@@ -1,0 +1,88 @@
+{ 
+    "yunwan_2": [
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（1700ml/d） ",
+        "nutrient": "水 "
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（29mg/d）",
+        "nutrient": "铁"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（85g/d）",
+        "nutrient": "蛋白质"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（230g/d）",
+        "nutrient": "碘"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（730μg/d）",
+        "nutrient": "维生素A"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入(10.5mg/d)",
+        "nutrient": "锌 "
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（800mg/d）",
+        "nutrient": "钙"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（80μg/d）",
+        "nutrient": "维生素K"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（1.5mg/d）",
+        "nutrient": "维生素B1"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（1.4mg/d）",
+        "nutrient": "维生素B2"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（115mg/d）",
+        "nutrient": "维生素C"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（ 2.9mg/d） ",
+        "nutrient": "维生素B12"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（200mg）",
+        "nutrient": "DHA"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（230μg/d）",
+        "nutrient": "碘"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（10.5mg/d）",
+        "nutrient": "锌 "
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入(370mg/d)  ",
+        "nutrient": "镁"
+    },
+    {
+        "pregnancy": "孕晚期",
+        "recommend": "推荐摄入（65微克/天）",
+        "nutrient": "硒"
+    }
+]}

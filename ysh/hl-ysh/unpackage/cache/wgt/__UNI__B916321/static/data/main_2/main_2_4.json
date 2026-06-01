@@ -1,0 +1,48 @@
+{
+    "main_2_4": [ 
+    {
+        "dish": "鱼汤",
+        "effect": "功效",
+        "advantage": " 刺激消化液分泌 "
+    },
+    {
+        "dish": "鸡汤",
+        "effect": "功效",
+        "advantage": " 刺激消化液分泌 "
+    },
+    {
+        "dish": "肉汤",
+        "effect": "功效",
+        "advantage": " 刺激消化液分泌 "
+    },
+    {
+        "dish": "鱼汤",
+        "effect": "功效",
+        "advantage": "改善食欲"
+    },
+    {
+        "dish": "鸡汤",
+        "effect": "功效",
+        "advantage": "改善食欲"
+    },
+    {
+        "dish": "肉汤",
+        "effect": "功效",
+        "advantage": "改善食欲"
+    },
+    {
+        "dish": "鱼汤",
+        "effect": "功效",
+        "advantage": "帮助消化"
+    },
+    {
+        "dish": "鸡汤",
+        "effect": "功效",
+        "advantage": "帮助消化"
+    },
+    {
+        "dish": "肉汤",
+        "effect": "功效",
+        "advantage": "帮助消化"
+    }
+]}

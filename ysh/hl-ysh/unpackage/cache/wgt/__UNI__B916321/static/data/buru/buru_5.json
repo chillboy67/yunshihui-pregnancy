@@ -1,0 +1,58 @@
+{ 
+    "buru_5": [
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入 （300-500g/d）",
+        "foodType": "奶类及制品"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（400-500g/d）",
+        "foodType": "蔬菜类及制品"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（50g/d）",
+        "foodType": "蛋类及制品"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（225-275g/d）",
+        "foodType": "谷类及制品 "
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（75g）",
+        "foodType": "薯类及制品"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（200-350g/d）",
+        "foodType": "水果类及制品"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（10g/d）",
+        "foodType": "坚果类"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（25g/d）",
+        "foodType": "大豆类"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（75-100g/d）",
+        "foodType": "鱼虾类"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（50-75g/d）",
+        "foodType": "瘦畜禽肉"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（至少每周一次）",
+        "foodType": "贝类"
+    }
+]}

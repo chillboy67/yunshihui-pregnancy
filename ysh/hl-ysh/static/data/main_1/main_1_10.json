@@ -1,0 +1,33 @@
+{
+    "main_1_10": [   
+    {
+        "foodType": "肝脏",
+        "contain": "含有",
+        "nutrient": "叶酸"
+    },
+    {
+        "foodType": "蛋类",
+        "contain": "含有",
+        "nutrient": "叶酸"
+    },
+    {
+        "foodType": "干豆类及制品",
+        "contain": "含有",
+        "nutrient": "叶酸"
+    },
+    {
+        "foodType": "绿叶蔬菜",
+        "contain": "含有",
+        "nutrient": "叶酸"
+    },
+    {
+        "foodType": "水果类",
+        "contain": "含有",
+        "nutrient": "叶酸"
+    },
+    {
+        "foodType": "坚果类",
+        "contain": "含有",
+        "nutrient": "叶酸"
+    }
+]}

@@ -1,0 +1,18 @@
+{
+    "main_2_2": [ 
+    {
+        "foodType": "奶类及制品",
+        "effect": "功效",
+        "advantage": "具有补钙作用"
+    },
+    {
+        "foodType": "奶类及制品",
+        "effect": "功效",
+        "advantage": " 降低妊娠期高血压疾病的发生率 "
+    },
+    {
+        "foodType": "水果类及制品",
+        "effect": "功效",
+        "advantage": "含有维生素C促进铁吸收"
+    }
+]}

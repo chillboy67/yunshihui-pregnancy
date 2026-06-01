@@ -1,0 +1,53 @@
+{
+    "main_2_3": [ 
+    {
+        "food": "红枣",
+        "effect": "功效",
+        "advantage": " “补血”"
+    },
+    {
+        "food": "红糖",
+        "effect": "功效",
+        "advantage": " “补血”"
+    },
+    {
+        "food": "猪肝",
+        "effect": "功效",
+        "advantage": " “补血”"
+    },
+    {
+        "food": "白砂糖",
+        "effect": "功效",
+        "advantage": " 孕吐严重时食用可迅速补充碳水化合物"
+    },
+    {
+        "food": "蜂蜜",
+        "effect": "功效",
+        "advantage": " 孕吐严重时食用可迅速补充碳水化合物"
+    },
+    {
+        "food": "低脂奶",
+        "effect": "功效",
+        "advantage": "体重增长较快减少能量摄入"
+    },
+    {
+        "food": "土豆",
+        "effect": "功效",
+        "advantage": "含有维生素C促进铁吸收"
+    },
+    {
+        "food": "胡萝卜",
+        "effect": "功效",
+        "advantage": "含有维生素C促进铁吸收"
+    },
+    {
+        "food": "白菜",
+        "effect": "功效",
+        "advantage": "含有维生素C促进铁吸收"
+    },
+    {
+        "food": "花菜",
+        "effect": "功效",
+        "advantage": "含有维生素C促进铁吸收"
+    }
+]}

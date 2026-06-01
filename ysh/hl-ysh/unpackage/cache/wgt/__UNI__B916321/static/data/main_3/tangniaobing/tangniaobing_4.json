@@ -1,0 +1,28 @@
+ {
+    "tangniaobing_4": [   
+    {
+        "specility": "妊娠期糖尿病",
+        "recommand": "推荐摄入（>=300g）",
+        "foodType": "蔬菜类及制品"
+    },
+    {
+        "specility": "妊娠期糖尿病",
+        "recommand": "推荐摄入 ",
+        "foodType": "谷类及制品"
+    },
+    {
+        "specility": "妊娠期糖尿病",
+        "recommand": "推荐摄入 ",
+        "foodType": "水果类及制品"
+    },
+    {
+        "specility": "妊娠期糖尿病",
+        "recommand": "推荐摄入 ",
+        "foodType": "坚果类"
+    },
+    {
+        "specility": "妊娠期糖尿病",
+        "recommand": "推荐摄入 ",
+        "foodType": "干豆类及制品"
+    }
+]}

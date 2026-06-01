@@ -1,0 +1,13 @@
+{ 
+    "main_1_9": [   
+    {
+        "foodType": "水果类",
+        "contain": "含有",
+        "nutrient": "维生素C"
+    },
+    {
+        "foodType": "绿叶蔬菜",
+        "contain": "含有",
+        "nutrient": "维生素C"
+    }
+]}

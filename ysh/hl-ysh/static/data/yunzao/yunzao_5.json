@@ -1,0 +1,38 @@
+{ 
+    "yunzao_5": [
+    {
+        "pregnancy": "孕早期",
+        "upperIntake": "可耐受最高摄入（500μg/d）",
+        "nutrient": "碘"
+    },
+    {
+        "pregnancy": "孕早期",
+        "upperIntake ": "可耐受最高摄入（40mg/d）",
+        "nutrient": "锌 "
+    },
+    {
+        "pregnancy": "孕早期",
+        "upperIntake ": "可耐受最高摄入（2000mg/d）",
+        "nutrient": "钙"
+    },
+    {
+        "pregnancy": "孕早期",
+        "upperIntake ": "可耐受最高摄入（3000μgRAE/d）",
+        "nutrient": "维生素A"
+    },
+    {
+        "pregnancy": "孕早期",
+        "upperIntake ": "可耐受最高摄入（2000mg/d）",
+        "nutrient": "维生素C"
+    },
+    {
+        "pregnancy": "孕早期",
+        "upperIntake ": "可耐受最高摄入（40mg/d）",
+        "nutrient": "锌 "
+    },
+    {
+        "pregnancy": "孕早期",
+        "upperIntake ": "可耐受最高摄入(400μg/d)",
+        "nutrient": "硒"
+    }
+]}

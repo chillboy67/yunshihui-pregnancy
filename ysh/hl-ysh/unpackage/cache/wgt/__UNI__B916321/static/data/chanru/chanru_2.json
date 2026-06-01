@@ -1,0 +1,23 @@
+{ 
+    "chanru_2": [
+    {
+        "pregnancy": "分娩产褥期",
+        "recommend": "推荐摄入（分娩后1-2天）",
+        "food": "鸡蛋"
+    },
+    {
+        "pregnancy": "剖宫产产褥期",
+        "recommend": "推荐摄入（产后一周）",
+        "food": "小米粥"
+    },
+    {
+        "pregnancy": "剖宫产产褥期",
+        "recommend": "推荐摄入（产后一周）",
+        "food": "蒸鸡蛋羹"
+    },
+    {
+        "pregnancy": "剖宫产产褥期",
+        "recommend": "推荐摄入（产后一周）",
+        "food": "藕粉"
+    }
+]}

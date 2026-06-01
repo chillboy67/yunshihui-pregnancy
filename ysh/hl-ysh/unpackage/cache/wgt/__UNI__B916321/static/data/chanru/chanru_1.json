@@ -1,0 +1,33 @@
+{ 
+    "chanru_1": [
+    {
+        "pregnancy": "产褥期",
+        "recommend": "推荐摄入（500g）",
+        "foodType": "蔬菜类及制品"
+    },
+    {
+        "pregnancy": "产褥期",
+        "recommend": "推荐摄入 ",
+        "foodType": "禽肉类及制品"
+    },
+    {
+        "pregnancy": "产褥期",
+        "recommend": "推荐摄入 ",
+        "foodType": "鱼虾类"
+    },
+    {
+        "pregnancy": "产褥期",
+        "recommend": "推荐摄入 ",
+        "foodType": "蛋类及制品"
+    },
+    {
+        "pregnancy": "产褥期",
+        "recommend": "推荐摄入 ",
+        "foodType": "水果类及制品"
+    },
+    {
+        "pregnancy": "产褥期",
+        "recommend": "推荐摄入",
+        "foodType": "奶类及制品"
+    }
+]}

@@ -1,0 +1,48 @@
+{
+    "main_1_1": [   
+    {
+        "food": "牛肉",
+        "contain": "含有 (20g/100g可食部)",
+        "nutrient": "蛋白质"
+    },
+    {
+        "food": "鲫鱼",
+        "contain": "含有(17.1g/54g可食部) ",
+        "nutrient": "蛋白质"
+    },
+    {
+        "food": "牛奶",
+        "contain": "含有 (3.3g/100g可食部 )",
+        "nutrient": "蛋白质"
+    },
+    {
+        "food": "瘦猪肉",
+        "contain": "含有 (20.7g/100g可食部）",
+        "nutrient": "蛋白质"
+    },
+    {
+        "food": "鸡肉",
+        "contain": "含有(24.6g/100g可食部)",
+        "nutrient": "蛋白质"
+    },
+    {
+        "food": "鸡肝",
+        "contain": "含有(16.6g/100g可食部) ",
+        "nutrient": "蛋白质"
+    },
+    {
+        "food": "鸭肉",
+        "contain": "含有(15g/100g可食部)",
+        "nutrient": "蛋白质"
+    },
+    {
+        "food": "虾",
+        "contain": "含有(10.4g/100g可食部) ",
+        "nutrient": "蛋白质"
+    },
+    {
+        "food": "豆腐",
+        "contain": "含有(6.6g/100g可食部)",
+        "nutrient": "蛋白质"
+    }
+]}

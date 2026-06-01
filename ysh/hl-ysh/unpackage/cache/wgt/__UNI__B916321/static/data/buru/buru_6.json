@@ -1,0 +1,58 @@
+{ 
+    "buru_6": [
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（25g/d）",
+        "food": "油"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（<5g/d）",
+        "food": "加碘食盐"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（85g/w）",
+        "food": "猪肝"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（40g/w）",
+        "food": "鸡肝"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（每周1-2次） ",
+        "food": "肝脏"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入",
+        "food": "蛋黄"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（至少每周一次）",
+        "food": "海鱼"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（至少每周一次）",
+        "food": "海带"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入（至少每周一次）",
+        "food": "紫菜"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入",
+        "food": "花生"
+    },
+    {
+        "specialty": "母乳喂养",
+        "recommand": "推荐摄入",
+        "food": "大豆 "
+    }
+]}

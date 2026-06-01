@@ -1,0 +1,58 @@
+{ 
+    "main_1_2": [   
+    {
+        "food": "牛奶",
+        "contain": "含有(107mg/100g可食部)",
+        "nutrient": "钙"
+    },
+    {
+        "food": "豆腐",
+        "contain": "含有(78mg/100g可食部) ",
+        "nutrient": "钙"
+    },
+    {
+        "food": "虾皮",
+        "contain": "含有(991mg/100g可食部) ",
+        "nutrient": "钙"
+    },
+    {
+        "food": "鸡蛋",
+        "contain": "含有(56mg/87g可食部) ",
+        "nutrient": "钙"
+    },
+    {
+        "food": "鲫鱼",
+        "contain": "含有(79mg/54g可食部)",
+        "nutrient": "钙"
+    },
+    {
+        "food": "小白菜",
+        "contain": "含有(1.4g/94g可食部)",
+        "nutrient": "钙"
+    },
+    {
+        "food": "芝麻酱",
+        "contain": "含有(612mg/100g可食部)",
+        "nutrient": "钙"
+    },
+    {
+        "food": "液态奶",
+        "contain": "含有",
+        "nutrient": "钙"
+    },
+    {
+        "food": "酸奶",
+        "contain": "含有",
+        "nutrient": "钙"
+    },
+    {
+        "food": "小葱",
+        "contain": "含有（72mg/73g可食部）",
+        "nutrient": " 钙"
+    },
+    {
+        "food": "芋头",
+        "contain": "含有(16mg/100g可食部)",
+        "nutrient": "钙"
+    }
+]}

@@ -1,0 +1,23 @@
+{
+    "main_1_3": [   
+    {
+        "food": "芒果 ",
+        "contain": "含有(0.5mg/68g可食部)",
+        "nutrient": "铁"
+    },
+    {
+        "food": "猪肝 ",
+        "contain": "含有 ",
+        "nutrient": "铁"
+    },
+    {
+        "food": "鸭血 ",
+        "contain": "含有 ",
+        "nutrient": "铁"
+    },
+    {
+        "food": "羊肉",
+        "contain": "含有 ",
+        "nutrient": "铁"
+    }
+]}

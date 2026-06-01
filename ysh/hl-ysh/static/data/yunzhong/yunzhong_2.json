@@ -1,0 +1,38 @@
+{ 
+    "yunzhong_2": [
+    {
+        "pregnancy": "孕中期",
+        "upperIntake": "可耐受最高摄入（2000mg/d）",
+        "nutrient": "钙"
+    },
+    {
+        "pregnancy": "孕中期",
+        "upperIntake": "可耐受最高摄入（3000mg/d）",
+        "nutrient": "维生素A"
+    },
+    {
+        "pregnancy": "孕中期",
+        "upperIntake": "可耐受最高摄入（500μg/d）",
+        "nutrient": "碘"
+    },
+    {
+        "pregnancy": "孕中期",
+        "upperIntake": "可耐受最高摄入（40mg/d）",
+        "nutrient": "锌 "
+    },
+    {
+        "pregnancy": "孕中期",
+        "upperIntake": "可耐受最高摄入（2000mg/d）",
+        "nutrient": "维生素C"
+    },
+    {
+        "pregnancy": "孕中期",
+        "upperIntake": "可耐受最高摄入（40mg/d）",
+        "nutrient": "锌 "
+    },
+    {
+        "pregnancy": "孕中期",
+        "upperIntake": "可耐受最高摄入(400微克/天)",
+        "nutrient": "硒"
+    }
+]}

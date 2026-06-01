@@ -1,0 +1,68 @@
+{ 
+    "buru_4": [
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入（1260μg/RAE/d)",
+        "nutrient": "维生素A"
+    },
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入（800mg/d）",
+        "nutrient": "钙"
+    },
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入（240μg/d）",
+        "nutrient": "碘"
+    },
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入（13.0mg/d）",
+        "nutrient": "锌 "
+    },
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入（85μg/d）",
+        "nutrient": "维生素K"
+    },
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入（1.5mg/d）",
+        "nutrient": "维生素B1"
+    },
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入（100mg/d）",
+        "nutrient": "维生素C"
+    },
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入（1.7mg/d）",
+        "nutrient": "维生素B2 "
+    },
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入（3.2μg/d）",
+        "nutrient": "维生素B12"
+    },
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入（200mg）",
+        "nutrient": "DHA"
+    },
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入（240μg/d）",
+        "nutrient": "碘"
+    },
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入（13mg/d）",
+        "nutrient": "锌 "
+    },
+    {
+        "specialty": " 母乳喂养",
+        "recommand": "推荐摄入(78微克/天)",
+        "nutrient": "硒"
+    }
+]}
